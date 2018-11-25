@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\bin\Debug\Currency_convertor_kdmy.exe.config
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\bin\Debug\Currency_convertor_kdmy.exe
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\bin\Debug\Currency_convertor_kdmy.pdb
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\obj\Debug\Currency_convertor_kdmy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\obj\Debug\Currency_convertor_kdmy.Form1.resources
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\obj\Debug\Currency_convertor_kdmy.Properties.Resources.resources
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\obj\Debug\Currency_convertor_kdmy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\obj\Debug\Currency_convertor_kdmy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\obj\Debug\Currency_convertor_kdmy.exe
+C:\Users\User\source\repos\Currency_convertor_kdmy\Currency_convertor_kdmy\obj\Debug\Currency_convertor_kdmy.pdb
