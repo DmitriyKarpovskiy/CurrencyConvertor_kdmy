@@ -1,2 +1,2 @@
 # CurrencyConvertor_kdmy
-Currency convertor
+This application allows user to perform currency converting
